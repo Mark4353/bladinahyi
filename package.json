@@ -7,7 +7,7 @@
     "predeploy": "parcel build src/index.html",
     "startData": "json-server --watch ./src/data.json --port 3000",
     "start": "parcel src/index.html",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npx gh-pages -d dist"
   },
   "repository": {
     "type": "git",
