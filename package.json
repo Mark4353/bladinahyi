@@ -18,9 +18,9 @@
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Mark4353/project/issues"
+    "url": "https://github.com/Mark4353/bladinahyi/issues"
   },
-  "homepage": "https://mark4353.github.io/project",
+  "homepage": "https://mark4353.github.io/bladinahyi/",
   "dependencies": {
     "express": "^5.1.0",
     "handlebars": "^4.7.8",
