@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["bladinahyi.6206a315.css","src/reset.css"],"sourcesContent":["li {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n/*# sourceMappingURL=bladinahyi.6206a315.css.map */\n","li{\n    list-style: none;\n    margin: 0;\n    padding: 0;\n}"],"names":[],"version":3,"file":"bladinahyi.6206a315.css.map"}
